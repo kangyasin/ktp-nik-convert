@@ -1,0 +1,24 @@
+{
+    "name": "kangyasin/ktp-nik-convert",
+    "description": "Cek Nomor induk kewarganegaraan Indonesia untuk jenis kelamin, tanggal lahir dan alamat/daerah tinggal berdasarkan nomor NIK KTP",
+    "keywords": [
+        "nik",
+        "ktp",
+        "laravel-ktp",
+        "larevel-nik"
+      ],
+      "type": "library",
+      "license": "MIT",
+      "authors": [
+        {
+          "name": "Kangyasin",
+          "email": "tutorialblogmarine@gmail.com"
+        }
+      ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kangyasin\\KTPNIKConvert\\": "src/"
+        }
+    }
+}
